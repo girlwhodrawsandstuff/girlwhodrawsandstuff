@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a React Mini-Blog
-- 🌱 I’m currently learning Android Jetpack Compose
-- 🤔 I’m looking for help with Jetpack Compose
+- 🌱 I’m currently learning ReactJS
+- 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about HTML, CSS, Python [Flask], JavaScript, Kotlin
 - 📫 How to reach me: varsha.singh0497@gmail.com
 
