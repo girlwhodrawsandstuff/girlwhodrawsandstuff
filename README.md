@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a React Mini-Blog
+- 🔭 I’m currently working on a React Expense Tracker
 - 🌱 I’m currently learning ReactJS
 - 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about HTML, CSS, Python [Flask], JavaScript, Kotlin
